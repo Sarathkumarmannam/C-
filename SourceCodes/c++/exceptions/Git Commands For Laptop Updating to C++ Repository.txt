@@ -1,0 +1,5 @@
+git init
+git add SourceCodes
+to clone CS50 Sarath Respository:git clone https://github.com/Sarathkumarmannam/sarath.git
+git commit -m "Commit text"
+git remote add origin https://github.com/Sarathkumarmannam/C-.git
